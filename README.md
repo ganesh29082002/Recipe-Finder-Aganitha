@@ -17,6 +17,21 @@ A simple React-based application that allows users to search for recipes based o
 - **Tailwind CSS**: A utility-first CSS framework for building modern UIs.
 - **TheMealDB API**: A public API used to fetch recipe data.
 
+## preview 
+
+### Home Screen
+![Home Screen](src/assets/image.png)
+
+### Recipe Search Error
+![Recipe Search](src/assets/image2.png)
+
+### Recipe Search
+![Recipe Search](src/assets/image3.png)
+
+### Recipe Details
+
+![Recipe Search](src/assets/image4.png)
+
 ## Getting Started
 
 To get a local copy of the project up and running, follow these steps:
